@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6e7aafd-8b14-40f4-8736-41b42d56e683" name="Changes" comment="Initial Commit">
+    <list default="true" id="e6e7aafd-8b14-40f4-8736-41b42d56e683" name="Changes" comment="Add shademvn clean install">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/jammy/demonslayerapi/DemonSlayerAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jammy/demonslayerapi/DemonSlayerAPI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +60,20 @@
       <option name="project" value="LOCAL" />
       <updated>1719173066475</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add shade">
+      <option name="closed" value="true" />
+      <created>1720042663714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720042663714</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Add shade" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add shade" />
   </component>
 </project>

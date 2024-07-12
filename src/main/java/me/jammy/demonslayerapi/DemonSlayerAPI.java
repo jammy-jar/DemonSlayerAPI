@@ -4,4 +4,5 @@ import org.bukkit.inventory.ItemStack;
 
 public interface DemonSlayerAPI {
     ItemStack getNichirin();
+    String getBreathingStyle();
 }
